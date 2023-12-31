@@ -1,0 +1,85 @@
+{
+	"members": [
+		{
+			"name": "Radif",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Mehedi",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Rakhi",
+			"gender": "female",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Aarif",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Shakil",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Piyal",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Shihab",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Prantik",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		},
+		{
+			"name": "Hasif",
+			"gender": "male",
+			"comment": "",
+			"house": null,
+			"timeout": 1,
+			"skip": false,
+			"alternate": ""
+		}
+	]
+}
