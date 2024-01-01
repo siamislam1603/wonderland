@@ -100,15 +100,6 @@
       "alternate": ""
     },
     {
-      "name": "Saad",
-      "gender": "male",
-      "comment": "",
-      "house": null,
-      "timeout": 1,
-      "skip": false,
-      "alternate": ""
-    },
-    {
       "name": "Siam",
       "gender": "male",
       "comment": "",
@@ -290,6 +281,24 @@
     },
     {
       "name": "Hasif",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Farhan",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Saafees",
       "gender": "male",
       "comment": "",
       "house": null,
