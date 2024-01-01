@@ -70,6 +70,7 @@ function init() {
 		};
 		members.forEach((member) => {
 			if (member.house) {
+				console.log(member)
 				houseMemberCount[member.house.toLowerCase()]++;
 			}
 		});
@@ -118,7 +119,6 @@ function setNextMember() {
 }
 
 function saveMemberHouse(house) {
-	console.log(house)
 	members[nextMember].house = house;
 	window.localStorage.setItem("members", JSON.stringify(members));
 

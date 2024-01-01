@@ -1,7 +1,7 @@
 {
   "members": [
     {
-      "name": "S.M.Mohiuddin Milton",
+      "name": "Farjad Vaia",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -10,7 +10,7 @@
       "alternate": ""
     },
     {
-      "name": "A.Farjad Ahmed",
+      "name": "Asim Vaia",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -19,7 +19,7 @@
       "alternate": ""
     },
     {
-      "name": "Radin Ahmed",
+      "name": "Neel Vaia",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -28,7 +28,97 @@
       "alternate": ""
     },
     {
-      "name": "Mahmuda Islam",
+      "name": "Ziad Vaia",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Riazul Islam",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Milton Vaia",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Nisan",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Sakib",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Arijit",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Shihab",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Mahin",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Saad",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Siam",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Koel",
       "gender": "female",
       "comment": "",
       "house": null,
@@ -37,7 +127,34 @@
       "alternate": ""
     },
     {
-      "name": "Md. Ali Azam",
+      "name": "Shejoti",
+      "gender": "female",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Tonongi",
+      "gender": "female",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Soptorshi",
+      "gender": "female",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Zubair",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -46,7 +163,7 @@
       "alternate": ""
     },
     {
-      "name": "Md. Tahmeed Abdullah",
+      "name": "Zobaer",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -55,7 +172,7 @@
       "alternate": ""
     },
     {
-      "name": "Moshiur Rahman",
+      "name": "Mozammel",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -64,7 +181,115 @@
       "alternate": ""
     },
     {
-      "name": "Md. Mozammel Haque",
+      "name": "Tanha",
+      "gender": "female",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Sajal",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Piyal",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Iman",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Liton",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Dhruba",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Anan",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Spondan",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Tanveer",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Ridmi",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Kawsar",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Haider",
+      "gender": "male",
+      "comment": "",
+      "house": null,
+      "timeout": 1,
+      "skip": false,
+      "alternate": ""
+    },
+    {
+      "name": "Hasif",
       "gender": "male",
       "comment": "",
       "house": null,
@@ -72,6 +297,5 @@
       "skip": false,
       "alternate": ""
     }
-    
   ]
 }
